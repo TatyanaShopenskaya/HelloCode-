@@ -1,0 +1,15 @@
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\Examples\Example005_Masha\bin\Debug\net6.0\Example005_Masha.exe
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\Examples\Example005_Masha\bin\Debug\net6.0\Example005_Masha.deps.json
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\Examples\Example005_Masha\bin\Debug\net6.0\Example005_Masha.runtimeconfig.json
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\Examples\Example005_Masha\bin\Debug\net6.0\Example005_Masha.dll
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\Examples\Example005_Masha\bin\Debug\net6.0\Example005_Masha.pdb
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\Examples\Example005_Masha\obj\Debug\net6.0\Example005_Masha.csproj.AssemblyReference.cache
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\Examples\Example005_Masha\obj\Debug\net6.0\Example005_Masha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\Examples\Example005_Masha\obj\Debug\net6.0\Example005_Masha.AssemblyInfoInputs.cache
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\Examples\Example005_Masha\obj\Debug\net6.0\Example005_Masha.AssemblyInfo.cs
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\Examples\Example005_Masha\obj\Debug\net6.0\Example005_Masha.csproj.CoreCompileInputs.cache
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\Examples\Example005_Masha\obj\Debug\net6.0\Example005_Masha.dll
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\Examples\Example005_Masha\obj\Debug\net6.0\refint\Example005_Masha.dll
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\Examples\Example005_Masha\obj\Debug\net6.0\Example005_Masha.pdb
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\Examples\Example005_Masha\obj\Debug\net6.0\Example005_Masha.genruntimeconfig.cache
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\Examples\Example005_Masha\obj\Debug\net6.0\ref\Example005_Masha.dll
